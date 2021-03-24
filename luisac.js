@@ -1,1 +1,3 @@
 function suma (){}
+
+function resta () {}
